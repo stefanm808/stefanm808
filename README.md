@@ -4,7 +4,7 @@ Working in Stealth Mode - Coming soon :) | AI/ML | Computational Oncology | Biol
 
 Building the infrastructure layer for patient-specific tumor modeling in CNS cancers. Reconstructing the unobservable tumor.
 
-🧬🔬💻  | #building
+🧬🔬💻 
 ---
 
 ### About me
