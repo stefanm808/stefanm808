@@ -11,8 +11,9 @@ Building the infrastructure layer for patient-specific tumor modeling in CNS can
 
 - Researcher and engineer at the intersection of AI and oncology
 - MPhil Advanced Computer Science, University of Cambridge
-- MSc Data Science
-- Previously at Microsoft
+- BSc Computer Science + MSc Data Science (Computational Biology)
+- Previous Graduate and Postgraduate Researcher at the University of Cambrdige, The Department of Computer Science and Technology in coorporatiion with the Wellcome Sanger Institute
+- Previously at Microsoft, BlueGrid.io
 - AI Lead at BIO4 Campus, Belgrade
 
 ### What I'm building
