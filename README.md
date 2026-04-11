@@ -16,15 +16,6 @@ Building the infrastructure layer for patient-specific tumor modeling in CNS can
 - Previously at Microsoft, BlueGrid.io
 - AI Lead at BIO4 Campus, Belgrade
 
-### What I'm building
-
-- Physics-ML inference engine for glioblastoma digital twins
-- Fisher-Kolmogorov PDE solvers coupled with Attention graph neural networks
-- Patient-specific tumor infiltration prediction from DTI connectome data
-- TP vs pseudoprogression classification from diffusion MRI
-- Therapy response simulation with Monte Carlo uncertainty
-
-
 ### Links
 
 - [Personal Site](https://stefan-m.com)
