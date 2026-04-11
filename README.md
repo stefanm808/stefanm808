@@ -1,8 +1,6 @@
 # Hey, I'm Stefan
 
-Working in Stealth Mode - Coming soon :) | AI/ML | Computational Oncology | Biological Digital Twins
-
-Building the infrastructure layer for patient-specific tumor modeling in CNS cancers. Reconstructing the unobservable tumor.
+Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Twins
 
 🧬🔬💻 
 ---
