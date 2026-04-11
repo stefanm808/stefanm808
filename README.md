@@ -1,4 +1,4 @@
-# Hey, I'm Stefan
+# Hey, I'm Stefan (🇨🇦🇷🇸) 
 
 Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Twins
 
@@ -7,7 +7,8 @@ Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Tw
 
 ### About me
 
-- Researcher and engineer at the intersection of AI and oncology
+AI/ML (Bio) Engineer in bioinformatics and precision oncology, building computational infrastructure and advanced machine learning systems for 
+complex biological and clinical data.
 
 ### Links
 
