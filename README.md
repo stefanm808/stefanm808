@@ -10,7 +10,7 @@ Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Tw
 - Researcher and engineer at the intersection of AI and oncology
 - MPhil Advanced Computer Science, University of Cambridge
 - BSc Computer Science + MSc Data Science (Computational Biology)
-- Previous Graduate and Postgraduate Researcher at the University of Cambrdige, The Department of Computer Science and Technology in coorporatiion with the Wellcome Sanger Institute
+- Previous Graduate and Postgraduate Researcher at the University of Cambridge, The Department of Computer Science and Technology in coorporatiion with the Wellcome Sanger Institute
 - Previously at Microsoft, BlueGrid.io
 - AI Lead at BIO4 Campus, Belgrade
 
