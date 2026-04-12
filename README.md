@@ -12,5 +12,5 @@ complex biological and clinical data.
 
 ### Website
 
-- [💻](https://stefan-m.com)
+https://stefan-m.com
 
