@@ -2,7 +2,7 @@
 
 Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Twins
 
-🧬🔬💻 
+🧬💊🔬💻 
 ---
 
 ### About me
