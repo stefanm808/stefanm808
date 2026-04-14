@@ -10,7 +10,7 @@ Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Tw
 AI/ML (Bio) Engineer in bioinformatics and precision oncology, building computational infrastructure and advanced machine learning systems for 
 complex biological and clinical data.
 
-### Website
+### Personal Website
 
 https://stefan-m.com
 
