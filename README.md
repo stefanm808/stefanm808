@@ -1,8 +1,7 @@
-# Hey, I'm Stefan (🇨🇦:🇷🇸) 
+# Hey, I'm Stefan 🧬💊🔬💻 
 
 Working in Stealth Mode | AI/ML | Computational Oncology | Biological Digital Twins
 
-🧬💊🔬💻 
 ---
 
 ### About me
