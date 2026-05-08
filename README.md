@@ -4,7 +4,7 @@ Stealth Mode | AI/ML | Computational Oncology | Biological Digital Twins
 
 ---
 
-### About me
+### About Me
 
 AI/ML Research Engineer in bioinformatics and precision oncology, building computational infrastructure and advanced machine learning systems for 
 complex biological and clinical data.
