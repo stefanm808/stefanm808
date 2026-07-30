@@ -1,4 +1,4 @@
-# Hey, I'm Stefan 🧬💊🔬💻 
+# Hey, I'm Stefan 
 
 Stealth Mode | AI/ML | Computational Oncology | Biological Digital Twins
 
