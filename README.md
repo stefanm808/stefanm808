@@ -1,6 +1,6 @@
 # Hey, I'm Stefan 
 
-Stealth Mode | AI/ML | Computational Oncology
+Stealth Mode | AI/ML x Bio
 
 ---
 
