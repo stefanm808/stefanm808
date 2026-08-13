@@ -1,4 +1,4 @@
-<img src="assets/band-header.svg" width="100%" alt=""/>
+<img src="assets/header.svg" width="100%" alt=""/>
 
 ## Hi there, I'm Stefan 👋
 
