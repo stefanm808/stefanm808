@@ -1,15 +1,6 @@
-# Hey, I'm Stefan 
+Hi there, I'm Stefan 👋
 
-Stealth Mode | AI/ML x Bio
+I am an AI/ML research engineer working in precision oncology and bioinformatics, currently AI (Life Sciences) Lead at BIO4 Campus in Belgrade, where I lead AI/ML strategy and build computational infrastructure for genomics and clinical machine learning. In parallel I am an ML Engineer in the feild of bioinformatics. Ex-intern at Microsoft. I hold an MPhil in Advanced Computer Science from the University of Cambridge, where I worked with Pietro Lio and the Wellcome Sanger Institute on graph neural networks for single-cell multiomics. Before Cambridge, I completed an MSc in Data Science specialising in computational biology. My current work is in tumour growth modelling, deep learning solvers for brain tumour dynamics, and digital twins for CNS malignancies.
 
----
-
-### About Me
-
-AI/ML Research Engineer in bioinformatics and precision oncology, building computational infrastructure and advanced machine learning systems for 
-complex biological and clinical data.
-
-### Personal Website
-
-https://stefan-m.com
+📫 How to reach me: Website | LinkedIn | Google Scholar | X | Email
 
