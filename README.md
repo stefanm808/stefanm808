@@ -6,4 +6,4 @@ I am an AI/ML Research Engineer and Computational Biologist with 5+ years of exp
 
 📫 How to reach me: [Website](https://stefan-m.com/) | [LinkedIn](https://www.linkedin.com/in/stefan-milosevic-1034b21a3) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=IpkOiTgAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Stefan-Milosevic-4?ev=hdr_xprf) | [X](https://x.com/milostefann)
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+
